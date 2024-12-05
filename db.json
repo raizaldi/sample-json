@@ -1,0 +1,56 @@
+{
+    "pemain-bola": {
+        "timnas_indonesia": [
+            {
+                "nama": "Nadeo Argawinata",
+                "posisi": "Kiper",
+                "nomor_punggung": 1
+            },
+            {
+                "nama": "Pratama Arhan",
+                "posisi": "Bek",
+                "nomor_punggung": 12
+            },
+            {
+                "nama": "Rachmat Irianto",
+                "posisi": "Bek",
+                "nomor_punggung": 13
+            },
+            {
+                "nama": "Elkan Baggott",
+                "posisi": "Bek",
+                "nomor_punggung": 2
+            },
+            {
+                "nama": "Ricky Kambuaya",
+                "posisi": "Gelandang",
+                "nomor_punggung": 6
+            },
+            {
+                "nama": "Marc Klok",
+                "posisi": "Gelandang",
+                "nomor_punggung": 23
+            },
+            {
+                "nama": "Egy Maulana Vikri",
+                "posisi": "Penyerang",
+                "nomor_punggung": 10
+            },
+            {
+                "nama": "Witan Sulaeman",
+                "posisi": "Penyerang",
+                "nomor_punggung": 8
+            },
+            {
+                "nama": "Dimas Drajad",
+                "posisi": "Penyerang",
+                "nomor_punggung": 9
+            },
+            {
+                "nama": "Shin Tae-yong",
+                "posisi": "Pelatih",
+                "nomor_punggung": null
+            }
+        ]
+    }
+}
